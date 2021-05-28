@@ -5,7 +5,7 @@ Olá, meu nome é **Emerson Saturnino**, sou de Vargem Grande do Sul, Brazil, es
 
 
 - 👨🏽‍💻 Estou estudando no momento o framework **React.js**;
-- 🤔 My hobbies are reading, movies, traveling and camping;
+- 🤔 Neus hobbies são leitura, filmes, viajar e acampar;
 - 💬 Gosto de ajudar outras pessoas, pergunte-me sobre qualquer coisa;
 - 📫 Quer falar comigo? me envie um email emerson@saturnino.com.br.
 
