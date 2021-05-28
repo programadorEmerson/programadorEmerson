@@ -26,10 +26,10 @@ Olá, me chamo **Emerson Saturnino**, tenho 36 anos, e sou apaixonado por tecnol
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Dart](https://img.shields.io/badge/-dart-333333?style=flat&logo=dart)
-  ![Flutter](https://img.shields.io/badge/-flutter-333333?style=flat&logo=flutter)
-  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)  
+  ![Flutter](https://img.shields.io/badge/-flutter-333333?style=flat&logo=flutter) 
   ![C#](https://img.shields.io/badge/-csharp-333333?style=flat&logo=c)
   ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
+  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 
 
 <p>
