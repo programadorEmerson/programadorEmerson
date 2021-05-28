@@ -19,10 +19,17 @@ Olá, meu nome é **Emerson Saturnino**, sou de Vargem Grande do Sul, Brazil, es
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-redux-333333?style=flat&logo=redux)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Dart](https://img.shields.io/badge/-dart-333333?style=flat&logo=dart)
+  ![Flutter](https://img.shields.io/badge/-flutter-333333?style=flat&logo=flutter)
+  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)  
+  ![C#](https://img.shields.io/badge/-csharp-333333?style=flat&logo=c)
+  ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
+
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programadorEmerson&layout=compact&theme=graywhite&title_color=268bd2" alt="programadorEmerson" />
