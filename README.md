@@ -10,7 +10,7 @@ Olá, me chamo **Emerson Saturnino**, tenho 36 anos, e sou apaixonado por tecnol
 - 📫 Quer falar comigo? me envie um email emerson@saturnino.com.br ou <a href="https://web.whatsapp.com/send?phone=5519982302626&text=Ol%C3%A1+vi+seu+perfil+no+github" target="_blank">WhatsApp</a>
 
 
-<h3> :rocket: &nbsp;Linguagens até aqui </h3>
+<h3> :rocket: &nbsp;Conhecimentos até aqui </h3>
 
 
 
