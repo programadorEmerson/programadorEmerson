@@ -5,7 +5,7 @@ Olá, me chamo **Emerson Saturnino**, tenho 36 anos, e sou apaixonado por tecnol
 
 
 - 👨🏽‍💻 Estou estudando no momento o framework **React.js**;
-- 🤔 Neus hobbies são leitura, filmes, viajar e acampar;
+- 🤔 Meus hobbies são leitura, filmes, viajar e acampar;
 - 💬 Gosto de ajudar outras pessoas, pergunte-me sobre qualquer coisa;
 - 📫 Quer falar comigo? me envie um email emerson@saturnino.com.br.
 
