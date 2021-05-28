@@ -22,7 +22,7 @@ Olá, me chamo **Emerson Saturnino**, tenho 36 anos, e sou apaixonado por tecnol
   ![Redux](https://img.shields.io/badge/-redux-333333?style=flat&logo=redux)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
+  ![VS](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Dart](https://img.shields.io/badge/-dart-333333?style=flat&logo=dart)
