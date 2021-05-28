@@ -7,7 +7,7 @@ Olá, me chamo **Emerson Saturnino**, tenho 36 anos, e sou apaixonado por tecnol
 - 👨🏽‍💻 Estou estudando no momento o framework **React.js**;
 - 🤔 Meus hobbies são leitura, filmes, viajar e acampar;
 - 💬 Gosto de ajudar outras pessoas, pergunte-me sobre qualquer coisa;
-- 📫 Quer falar comigo? me envie um email emerson@saturnino.com.br.
+- 📫 Quer falar comigo? me envie um email emerson@saturnino.com.br ou <a href="https://api.whatsapp.com/send?phone=5519982302626&text=Ol%C3%A1%20vi%20seu%20perfil%20no%20github">WhatsApp</a>
 
 
 <h3> :rocket: &nbsp;Linguagens até aqui </h3>
@@ -43,6 +43,9 @@ Olá, me chamo **Emerson Saturnino**, tenho 36 anos, e sou apaixonado por tecnol
 </a>
 <a href="https://www.instagram.com/emerson_saturnino/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a>
+<a href="https://www.facebook.com/programador.emerson" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png" width="48px" height="48px">
 </a>
 
 
