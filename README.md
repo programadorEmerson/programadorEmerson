@@ -1,4 +1,4 @@
-Olá, meu nome é **Emerson Saturnino**, sou de Vargem Grande do Sul, Brazil, estou estudando **Desenvolvimento web Full-Stack** na <a href="https://www.betrybe.com/">Trybe</a> e me graduando em **Engenharia de Computação**.
+Olá, me chamo **Emerson Saturnino**, tenho 36 anos, e sou apaixonado por tecnologia, desenvolvimento de sistemas e de marcas que batalhem para contribuir com uma melhor interação digital, estou estudando **Desenvolvimento web Full-Stack** na <a href="https://www.betrybe.com/">Trybe</a> e me graduando em **Engenharia de Computação em 2021**, sou de **Vargem Grande do Sul,** interior de São Paulo, um cidadezinha tranquila com aproximadamente 40 mil habitantes, como um bom morador do interior gosto de um bom bate papo, ouvir idéias e contar as minhas, e acredito na colaboração para que juntos possamos buscar resultados, como diz um sábio provérbio, "quer ir rápido vá sozinho, quer ir longe vá em grupo".
 
 
 **Meus interesses pessoais:**
