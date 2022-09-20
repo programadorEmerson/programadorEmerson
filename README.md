@@ -1,4 +1,10 @@
-Olá, me chamo **Emerson Saturnino**, tenho 36 anos, e sou apaixonado por tecnologia, desenvolvimento de sistemas e de marcas que batalhem para contribuir com uma melhor interação digital, sou formado na Trybe em **Desenvolvimento web Full-Stack** na <a href="https://www.betrybe.com/">Trybe</a> (Onde hoje sou instrutor) e me graduando em **Engenharia de Computação em 2021**, sou de **Vargem Grande do Sul,** interior de São Paulo, um cidadezinha tranquila com aproximadamente 40 mil habitantes, e como um bom morador do interior gosto de um bom bate papo, ouvir idéias e contar as minhas, acredito na colaboração para que juntos possamos buscar resultados, como diz um sábio provérbio, "quer ir rápido vá sozinho, quer ir longe vá em grupo".
+Olá, me chamo Emerson, sou natural de Vargem Grande do Sul, interior de São Paulo, uma cidade tranquila com aproximadamente 40 mil habitantes, atualmente vivo em uma jornada para conhecer  nosso Brasil como Nômade Digital com minha esposa e duas pinchers, a Matilda e Tequila, e como um bom morador do interior gosto de um bom bate papo, ouvir ideias e contar as minhas, acredito na colaboração para que juntos possamos buscar resultados, como diz um sábio provérbio, "quer ir rápido vá sozinho, quer ir longe vá em grupo". Sou apaixonado por tecnologia, desenvolvimento de sistemas e de marcas que batalhem para contribuir com uma melhor interação digital, sou programador desde 2016, iniciei no mundo da programação com JAVA (hoje não estou utilizando mais), e segui com C#, e em 2020 dar mais foco em desenvolvimento web, conclui meus estudos na Trybe como desenvolvedor fullstack, onde hoje sou Instrutor Frontend utilizando tecnologias como ReactJs, Next, Redux, ContextApi, Jest, RTL. Estou me graduando como Engenheiro da Computação em Agosto de 2022.
+
+Linkedin
+https://www.linkedin.com/in/emerson-saturnino/
+
+Canal no YouTube que falo/ensino um pouco de programação
+https://youtube.com/programadorNomade
 
 
 **Meus interesses pessoais:**
