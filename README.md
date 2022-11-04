@@ -10,7 +10,7 @@ https://youtube.com/programadorNomade
 - 👨🏽‍💻 Estou estudando no momento o framework **Next.js**;
 - 🤔 Meus hobbies são leitura, filmes, viajar e acampar;
 - 💬 Gosto de ajudar outras pessoas, pergunte-me sobre qualquer coisa;
-- 📫 Quer falar comigo? me envie um email emerson@programandosolucoes.com, <a href="https://web.whatsapp.com/send?phone=5519982302626&text=Ol%C3%A1+vi+seu+perfil+no+github" target="_blank">WhatsApp</a> ou pelo <a href="[https://web.whatsapp.com/send?phone=5519982302626&text=Ol%C3%A1+vi+seu+perfil+no+github](https://www.linkedin.com/in/emerson-saturnino/)" target="_blank">Linkedin</a>
+- 📫 Quer falar comigo? me envie um email emerson@programandosolucoes.com, <a href="https://web.whatsapp.com/send?phone=5519982302626&text=Ol%C3%A1+vi+seu+perfil+no+github" target="_blank">WhatsApp</a> ou pelo <a href="https://www.linkedin.com/in/emerson-saturnino/" target="_blank">Linkedin</a>
 
 
 <h3> :rocket: &nbsp;Conhecimentos até aqui </h3>
