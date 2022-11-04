@@ -1,8 +1,5 @@
 Olá, me chamo Emerson, sou natural de Vargem Grande do Sul, interior de São Paulo, uma cidade tranquila com aproximadamente 40 mil habitantes, atualmente vivo em uma jornada para conhecer  nosso Brasil como Nômade Digital com minha esposa e duas pinchers, a Matilda e Tequila, e como um bom morador do interior gosto de um bom bate papo, ouvir ideias e contar as minhas, acredito na colaboração para que juntos possamos buscar resultados, como diz um sábio provérbio, "quer ir rápido vá sozinho, quer ir longe vá em grupo". Sou apaixonado por tecnologia, desenvolvimento de sistemas e de marcas que batalhem para contribuir com uma melhor interação digital, sou programador desde 2016, iniciei no mundo da programação com JAVA (hoje não estou utilizando mais), e segui com C#, e em 2020 dar mais foco em desenvolvimento web, conclui meus estudos na Trybe como desenvolvedor fullstack, onde hoje sou Instrutor Frontend utilizando tecnologias como ReactJs, Next, Redux, ContextApi, Jest, RTL. Estou me graduando como Engenheiro da Computação em Agosto de 2022.
 
-Linkedin<br/>
-https://www.linkedin.com/in/emerson-saturnino/
-
 Canal no YouTube que falo/ensino um pouco de programação<br/>
 https://youtube.com/programadorNomade
 
@@ -13,7 +10,7 @@ https://youtube.com/programadorNomade
 - 👨🏽‍💻 Estou estudando no momento o framework **Next.js**;
 - 🤔 Meus hobbies são leitura, filmes, viajar e acampar;
 - 💬 Gosto de ajudar outras pessoas, pergunte-me sobre qualquer coisa;
-- 📫 Quer falar comigo? me envie um email emerson@programandosolucoes.com ou <a href="https://web.whatsapp.com/send?phone=5519982302626&text=Ol%C3%A1+vi+seu+perfil+no+github" target="_blank">WhatsApp</a>
+- 📫 Quer falar comigo? me envie um email emerson@programandosolucoes.com, <a href="https://web.whatsapp.com/send?phone=5519982302626&text=Ol%C3%A1+vi+seu+perfil+no+github" target="_blank">WhatsApp</a> ou pelo <a href="[https://web.whatsapp.com/send?phone=5519982302626&text=Ol%C3%A1+vi+seu+perfil+no+github](https://www.linkedin.com/in/emerson-saturnino/)" target="_blank">Linkedin</a>
 
 
 <h3> :rocket: &nbsp;Conhecimentos até aqui </h3>
