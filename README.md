@@ -19,11 +19,14 @@ https://youtube.com/programadorNomade
 
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![NextJs](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=nextJs)
   ![Redux](https://img.shields.io/badge/-redux-333333?style=flat&logo=redux)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
   ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code)
   ![VS](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
