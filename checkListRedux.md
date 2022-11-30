@@ -115,9 +115,8 @@ export const addEmail = (email) => ({
 - [ ] criar a função `mapStateToProps`
 - [ ] exportar usando o `connect`
 
-*Nos componentes que irão modificar o estado:*
-- [ ] criar a função `mapDispatchToProps`
-- [ ] exportar usando o `connect`
+*O dispatch vem por padrão ao utilizar o connect ele que vai modificar o estado:*
+- [ ] const { `connect` } = this.props;
 
 Exemplo:
 
