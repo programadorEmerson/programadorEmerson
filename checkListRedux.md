@@ -1,5 +1,3 @@
-# Checklist do Redux
-
 *Antes de começar*
 - [ ] pensar como será o *formato* do seu estado global
 - [ ] pensar quais actions serão necessárias na sua aplicação
