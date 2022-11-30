@@ -5,7 +5,7 @@
 *Instalação*
 - [ ] npx create-react-app my-app-redux;
 - [ ] npm install --save redux react-redux;
-- [ ] npm install --save redux-devtools-extension
+- [ ] npm install --save @redux-devtools/extension
 
 *Criar dentro do diretório `src`:*
 - [ ] diretório `redux`
