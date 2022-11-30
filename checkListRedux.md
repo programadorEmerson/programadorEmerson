@@ -127,5 +127,5 @@ import { connect } from 'react-redux';
 
 ```js
 // No export
-export default connect(mapStateToProps, mapDispatchToProps)(Component)
+export default connect(mapStateToProps)(Component)
 ```
