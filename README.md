@@ -38,13 +38,6 @@ https://youtube.com/programadorNomade
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programadorEmerson&layout=compact&theme=graywhite&title_color=268bd2" alt="programadorEmerson" />
-</p>
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=programadorEmerson&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="programadorEmerson" />
-</p>
-
 <a href="https://www.linkedin.com/in/emerson-saturnino/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
