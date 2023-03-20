@@ -1,4 +1,4 @@
-Olá, sou Emerson, um programador apaixonado por tecnologia e desenvolvimento de sistemas. Possuo experiência desde 2015 com desenvolvimento de sistemas Desktop e Mobile e Web desde 2020. Além disso, fui empreendedor por cinco anos, tendo um foco específico em desenvolvimento de sistemas para a minha loja de informática.
+Olá, sou Emerson, um programador apaixonado por tecnologia e desenvolvimento de sistemas. Possuo experiência desde 2015 com desenvolvimento de sistemas Desktop e Mobile, e também Web desde 2020. Além disso, fui empreendedor por cinco anos, tendo um foco específico em desenvolvimento de sistemas para a minha loja de informática.
 
 Atualmente, sou instrutor do módulo de Frontend na Trybe, onde ensino todo o ecossistema ReactJS, incluindo classes, hooks, Redux, ContextApi e testes com Jest. Acredito na colaboração e em trabalhar em equipe para alcançar os melhores resultados, sempre lutando por marcas que contribuem para uma melhor interação digital.
 
