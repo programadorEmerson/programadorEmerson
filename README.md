@@ -4,6 +4,9 @@ Atualmente, sou instrutor do módulo de Frontend na Trybe, onde ensino todo o ec
 
 Estou me graduando em Engenharia da Computação em Junho de 2023 e minhas habilidades técnicas incluem HTML, CSS, JavaScript, Typescript, Jest, ReactJS, Redux, Context Api, Nodejs, Express, NextJs e MongoDB.
 
+Portifólio
+https://saturnino.com.br/
+
 Também possuo um canal no YouTube onde compartilho conhecimento sobre programação, abrangendo tanto Frontend quanto Backend.
 https://youtube.com/@programadorNomade
 
